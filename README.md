@@ -1,2 +1,4 @@
 # ruby_chef
-Chef Cookbook for installing ruby
+
+TODO: Enter the cookbook description here.
+
