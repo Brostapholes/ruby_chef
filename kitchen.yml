@@ -20,3 +20,5 @@ platforms:
 suites:
   - name: default
     run_list:
+      - recipe: ['ruby_chef::default']
+    attributes:
